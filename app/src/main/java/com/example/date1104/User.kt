@@ -5,7 +5,7 @@ package com.example.date1104
 data class User (
     val name: String?,
     val job : String?,
-    val age : Int,
+    val age : Int?,
     val hobbys : ArrayList<String?>,
     val phone : Phone?
         )
