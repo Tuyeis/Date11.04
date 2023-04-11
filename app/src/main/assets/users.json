@@ -1,0 +1,57 @@
+{
+  "description": "Eine Liste von Beenutzern",
+  "isEmpty": false,
+  "since": 1988,
+  "version": 2.55,
+  "users": [
+    {
+      "name": "Pablo",
+      "job": "Arbeitlosch",
+      "age": 29,
+      "city": "Oldenburg",
+      "hobbys":
+      [
+        "Computes spielen",
+        "lesen",
+        "schlafen"
+      ],
+      "phone": {
+        "private": "00000000",
+        "office":  "00000000",
+        "mobile": "000000000"
+      }
+    },
+    {
+      "name": "Jaime",
+      "age": 30,
+      "city": "Madrid",
+      "hobbys":
+      [
+        "Computes spielen",
+        "lesen"
+      ],
+      "phone":
+      {
+        "private": "1111111"
+      }
+
+    },
+    {
+      "name": "Peter",
+      "age": 29,
+      "city": "Oldenburg",
+      "hobbys":
+      [
+        "Computes spielen",
+        "lesen",
+        "schlafen"
+      ],
+      "phone": {
+        "private": "00000000",
+        "office":  "00000000",
+        "mobile": null
+      },
+      "job": "Bäcker"
+    }
+  ]
+}
