@@ -7,4 +7,11 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
+  <component name="jsonEditor">
+    <option name="stateMap">
+      <map>
+        <entry key="Date11.04" value="{&#10;  &quot;description&quot;: &quot;Eine Liste von Beenutzern&quot;,&#10;  &quot;isEmpty&quot;: false,&#10;  &quot;since&quot;: 1988,&#10;  &quot;version&quot;: 2.55,&#10;  &quot;users&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;Pablo&quot;,&#10;      &quot;job&quot;: &quot;Arbeitlosch&quot;,&#10;      &quot;age&quot;: 29,&#10;      &quot;city&quot;: &quot;Oldenburg&quot;,&#10;      &quot;hobbys&quot;:&#10;      [&#10;        &quot;Computes spielen&quot;,&#10;        &quot;lesen&quot;,&#10;        &quot;schlafen&quot;&#10;      ],&#10;      &quot;phone&quot;: {&#10;        &quot;private&quot;: &quot;00000000&quot;,&#10;        &quot;office&quot;:  &quot;00000000&quot;,&#10;        &quot;mobile&quot;: &quot;000000000&quot;&#10;      }&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;Jaime&quot;,&#10;      &quot;age&quot;: 30,&#10;      &quot;city&quot;: &quot;Madrid&quot;,&#10;      &quot;hobbys&quot;:&#10;      [&#10;        &quot;Computes spielen&quot;,&#10;        &quot;lesen&quot;&#10;      ],&#10;      &quot;phone&quot;:&#10;      {&#10;        &quot;private&quot;: &quot;1111111&quot;&#10;      }&#10;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;Peter&quot;,&#10;      &quot;age&quot;: 29,&#10;      &quot;city&quot;: &quot;Oldenburg&quot;,&#10;      &quot;hobbys&quot;:&#10;      [&#10;        &quot;Computes spielen&quot;,&#10;        &quot;lesen&quot;,&#10;        &quot;schlafen&quot;&#10;      ],&#10;      &quot;phone&quot;: {&#10;        &quot;private&quot;: &quot;00000000&quot;,&#10;        &quot;office&quot;:  &quot;00000000&quot;,&#10;        &quot;mobile&quot;: null&#10;      },&#10;      &quot;job&quot;: &quot;Bäcker&quot;&#10;    }&#10;  ]&#10;}" />
+      </map>
+    </option>
+  </component>
 </project>
